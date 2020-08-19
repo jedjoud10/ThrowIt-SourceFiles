@@ -1,2 +1,0 @@
-# ThrowIt-SourceFiles
- Source files
